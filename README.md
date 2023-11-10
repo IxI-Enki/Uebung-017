@@ -24,7 +24,8 @@ Der Computer soll nach der Eingabe der Anzahl der Zwanzigerl, Fünfzigerl, 1-Eur
 
 ## . . . . . . . . . .... [SPOILER] .... . . . . . . . . 
 
-## Visual Studio
+## Visual Studio:  
+![sparschweinmitif](https://github.com/IxI-Enki/Uebung-017/assets/138018029/d6b203ed-7873-4b80-98e0-856532664382)
 
 ## Ausgabe
 
